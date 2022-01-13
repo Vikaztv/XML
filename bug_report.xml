@@ -3,6 +3,6 @@
   <BugSummary>Короткое описание проблемы</BugSummary>
   <Severity>Наиболее распространена пятиуровневая система критичности</Severity>
    <Steps_to_reproduce>шаги к воспроизведению</Steps_to_reproduce>
-   <Actual Result>результат</Actual Result>
-  < Expected Result>ожидаемый результат</Expected Result>
+   <Actual_Result>результат</Actual_Result>
+  < Expected_Result>ожидаемый результат</Expected_Result>
 </bagreport>
