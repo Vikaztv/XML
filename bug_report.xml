@@ -1,8 +1,8 @@
-<?xml version="4.0"?>
-<bagreport>
-  <BugSummary>Короткое описание проблемы</BugSummary>
-  <Severity>Наиболее распространена пятиуровневая система критичности</Severity>
-   <Steps_to_reproduce>шаги к воспроизведению</Steps_to_reproduce>
-   <Actual_Result>результат</Actual_Result>
-  < Expected_Result>ожидаемый результат</Expected_Result>
-</bagreport>
+<?xml version="1.0"?>
+<myself>
+	<NAME="Viktoryia"/>
+	<Surname>Zaitsava</Surname>
+	<AGE>25</AGE>
+	<PETS= 1 />
+	<SALARY>5000</SALARY>
+</myself>
